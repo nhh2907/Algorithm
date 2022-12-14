@@ -1,3 +1,4 @@
+# https://www.acmicpc.net/problem/1233
 a,b,c = map(int, input().split())
 def dice(a,b,c):
     dic = {}

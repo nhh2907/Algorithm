@@ -1,3 +1,4 @@
+# https://www.acmicpc.net/problem/10824
 a,b,c,d = input().split()
 def two_number(a,b,c,d):
     P = int(a+b)

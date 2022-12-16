@@ -11,7 +11,8 @@ def solution(denum1, num1, denum2, num2):
     denum2b = denum2 * b
     denum_total = denum1a + denum2b
     
-    lis = []
+    # 약수 찾기
+	lis = []
     for i in range(1, min(num_total, denum_total)+1):
         if (denum_total % i == 0) and (num_total % i == 0):
             lis.append(i)

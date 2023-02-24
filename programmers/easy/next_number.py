@@ -1,4 +1,4 @@
-https://school.programmers.co.kr/learn/courses/30/lessons/120924
+# https://school.programmers.co.kr/learn/courses/30/lessons/120924
 def solution(common):
     diff_1 = common[1] - common[0]
     diff_2 = common[2] - common[1]

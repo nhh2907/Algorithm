@@ -40,4 +40,4 @@
 - [김태종](https://github.com/xowhddk123) - CV
 
 ## 시연 영상
-<img src="https://github.com/nhh2907/Portfolio/blob/master/05.Generative_Chatbot_Socar/Reference/NLP_%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0.gif" /> <img src="https://github.com/nhh2907/Portfolio/blob/master/05.Generative_Chatbot_Socar/Reference/NLP_%EC%8F%98%EC%B9%B4FQA.gif" />
+<img src="Reference/NLP_문제해결.gif" width="300" height="500"/> <img src="Reference/NLP_쏘카FAQ.gif" width="300" height="500"/>
